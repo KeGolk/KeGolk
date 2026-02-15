@@ -100,9 +100,11 @@
 <h2 align="center">🧬 AI Arsenal</h2>
 
 <p align="center">
-  <i>The tools I use to build, train, and create</i>
+  <i>The models, tools, and infrastructure I use to build, train, and ship</i>
 </p>
 
+<!-- AI MODELS & ASSISTANTS -->
+<h3 align="center">Models & assistants</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Opus_4.6-0077B6?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codex_5.3-00B4D8?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -112,11 +114,36 @@
   <img src="https://img.shields.io/badge/AgentZero-00B4D8?style=for-the-badge&logoColor=white"/>
 </p>
 
+<!-- TRAINING & FINE-TUNING -->
+<h3 align="center">Training & fine-tuning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM_Training-0A1628?style=flat-square&logoColor=00B4D8"/>
-  <img src="https://img.shields.io/badge/LoRA_Fine--tuning-0A1628?style=flat-square&logoColor=00B4D8"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0A1628?style=flat-square&logoColor=00B4D8"/>
-  <img src="https://img.shields.io/badge/AI_Automations-0A1628?style=flat-square&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-0077B6?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-00B4D8?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unsloth-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axolotl-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PEFT_%2F_LoRA-0077B6?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kohya_SS-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ComfyUI-00B4D8?style=for-the-badge&logoColor=white"/>
+</p>
+
+<!-- INFERENCE & LOCAL LLMs -->
+<h3 align="center">Inference & local LLMs</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llama.cpp-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LM_Studio-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GGUF_Quantization-0077B6?style=for-the-badge&logoColor=white"/>
+</p>
+
+<!-- MLOps & TRACKING -->
+<h3 align="center">MLOps & experiment tracking</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RunPod-00B4D8?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -170,7 +197,6 @@
 **🐒 Momo**
 Multi-instance Claude orchestration
 and workspace management tool
-<a href="https://github.com/KeGolk" target="_blank">View project</a>
 
 </td>
 <td align="center" width="260">
@@ -178,7 +204,6 @@ and workspace management tool
 **🌊 Deep Elevia**
 Full site build — design, development,
 and deployment from scratch
-<a href="https://github.com/KeGolk" target="_blank">View project</a>
 
 </td>
 <td align="center" width="260">
@@ -186,7 +211,6 @@ and deployment from scratch
 **🐍 Piton**
 Custom tooling and automation project
 built the Ivan way
-<a href="https://github.com/KeGolk" target="_blank">View project</a>
 
 </td>
 </tr>
@@ -194,35 +218,34 @@ built the Ivan way
 
 <br/>
 
-<details>
-<summary align="center"><b>📂 Other projects</b></summary>
-<br/>
+<!-- PROFESSIONAL EXPERIENCE -->
+<h2 align="center">🏢 Professional experience</h2>
+
 <table align="center">
 <tr>
 <td align="center" width="260">
 
-**🖨️ Bixolon Printer Monitor V4**
-Printer monitoring and management
-<a href="https://github.com/KeGolk/Bixolon_Printer_MonitorV4" target="_blank">View repo</a>
+**✈️ ELBJETS GmbH**
+Private jet charter platform
+based in Hamburg
 
 </td>
 <td align="center" width="260">
 
-**🔐 OIDC Server**
-OpenID Connect server implementation
-<a href="https://github.com/KeGolk/Oidc.Server" target="_blank">View repo</a>
+**📦 Darija d.o.o.**
+Internal operations app: accounting,
+quoting, orders & warehouse management
 
 </td>
 <td align="center" width="260">
 
-**🦆 Yellow Duck ToDo**
-Task management web application
-<a href="https://github.com/KeGolk/Yellow-Duck_ToDo_WebAPP" target="_blank">View repo</a>
+**🩺 DrDiagnostic**
+Medical diagnostics platform
+and healthcare automation
 
 </td>
 </tr>
 </table>
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1628,100:0077B6&height=3" />
