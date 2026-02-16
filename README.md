@@ -251,38 +251,25 @@
 <!-- FULL-STACK -->
 <h3 align="center">Full-stack experience</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"/></a>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
-  <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
-  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </p>
 
 <!-- SIDE PROJECTS & AUTOMATION -->
 <h3 align="center">Side projects & automation</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET"/></a>
-  <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"/></a>
+  <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
 </p>
 
 <!-- LEARNING -->
 <h3 align="center">Learning & exploring</h3>
 <p align="center">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow"/></a>
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/></a>
 </p>
@@ -311,12 +298,6 @@
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio"/></a>
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash / Terminal"/></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell"/></a>
-  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure"/></a>
   <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm"/></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
 </p>
