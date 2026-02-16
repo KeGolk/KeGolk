@@ -16,6 +16,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/10%2B_Years_Experience-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Belgrade%2C_Serbia-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to_Consulting-0077B6?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=KeGolk&color=00B4D8&style=for-the-badge&label=Profile+Views"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=00B4D8&lines=Building+enterprise+automations+by+day%2C+training+LoRAs+by+night;If+it+can+be+automated%2C+it+will+be+%E2%80%94+the+Ivan+way;Fortune+500+Automations+Lead+%7C+LLM+Trainer+%7C+VibeCoder;Clean+Code+%7C+AI%2FML+%7C+LoRA+Training+%7C+Automation+%7C+.NET" />
 </p>
 
@@ -24,8 +31,8 @@
 </p>
 
 <!-- FEATURE IMAGE -->
-<div align="center" style="background:#0A1628; padding:18px; border-radius:18px;">
-  <img src="https://github.com/KeGolk/KeGolk/blob/main/src/feature.png?raw=true" width="780"/>
+<div align="center">
+  <img src="https://github.com/KeGolk/KeGolk/blob/main/src/feature.png?raw=true" width="780" alt="Ivan Mladenovic — Automations Lead, AI Tinkerer, VibeCoder"/>
 </div>
 
 <p align="center">
@@ -85,7 +92,7 @@
 
 </div>
 
-<h4 align="center">🎯 Hobbies</h4>
+<h4 align="center">🎲 Hobbies</h4>
 <p align="center">
 💼 Consulting · 🤖 LLM Training · 🧬 LoRA Fine-tuning · 💻 VibeCoding · 🎨 Painting · ✍️ Writing · 📚 Reading · 📺 Series & Movies
 </p>
@@ -140,7 +147,7 @@
 
 <td align="left" width="420">
 
-### 🧬 AI Persona Research
+### 🎭 AI Persona Research
 - Building AI personas based on real human examples
 - Goal: explore how far we can go replicating human behavior, thinking, and thought patterns
 - Local MCPs, empowered LLMs with proper system engineering
@@ -244,6 +251,7 @@
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
   <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell"/></a>
+  <a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform"/></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </p>
@@ -251,11 +259,17 @@
 <!-- FULL-STACK -->
 <h3 align="center">Full-stack experience</h3>
 <p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js"/></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS"/></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
+  <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase"/></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/></a>
 </p>
@@ -265,6 +279,8 @@
 <p align="center">
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
   <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
+  <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron"/></a>
+  <a href="https://www.selenium.dev"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium"/></a>
 </p>
 
 <!-- LEARNING -->
@@ -272,6 +288,8 @@
 <p align="center">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow"/></a>
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/></a>
+  <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust"/></a>
+  <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go"/></a>
 </p>
 
 <!-- OS & ENVIRONMENT -->
@@ -299,7 +317,6 @@
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio"/></a>
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
   <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm"/></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
 </p>
 
 <p align="center">
@@ -353,7 +370,7 @@ built the Ivan way
 <tr>
 <td align="center" width="260">
 
-**✈️ ELBJETS GmbH**
+**✈️ [ELBJETS GmbH](https://elbjets.com)**
 Private jet charter platform
 based in Hamburg
 
@@ -379,8 +396,35 @@ toolkit — PowerShell 7 + WPF GUI
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1628,100:0077B6&height=3" />
 </p>
 
+<!-- FUN FACTS -->
+<h2 align="center">⚡ Fun facts</h2>
+
+<p align="center">
+  <i>Because life isn't all code... mostly, though.</i>
+</p>
+
+<div align="center">
+
+- ☕ Haven't touched coffee in 2+ years — survived a coffee tasting, loved every sip, still didn't go back
+- 🎨 When I'm not coding, I'm painting — creativity isn't just for IDEs
+- 🚀 Started freelancing while still in school — 10+ years later, still can't stop building
+- 🤖 Trained my first LoRA out of spite because an AI couldn't do what I needed
+- 📺 If there's a good series, it's getting binged — no exceptions
+- 🧠 I read AI research papers for fun — yes, on weekends too
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00B4D8&height=3" />
+</p>
+
 <!-- STATS -->
 <h2 align="center">📊 GitHub activity</h2>
+
+<!-- TOP LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeGolk&layout=compact&bg_color=0A1628&title_color=00B4D8&text_color=FFFFFF&hide_border=true&langs_count=8" />
+</p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
@@ -405,8 +449,11 @@ toolkit — PowerShell 7 + WPF GUI
 <h2 align="center">🤝 Let's connect</h2>
 
 <p align="center">
+  <a href="https://ivanm.dev">
+    <img src="https://img.shields.io/badge/ivanm.dev-0077B6?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/ivan-mladenovic1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
