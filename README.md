@@ -24,8 +24,6 @@
 </p>
 
 <!-- FEATURE IMAGE -->
-<!-- Uncomment and update path after generating your image -->
-<!--
 <div align="center" style="background:#0A1628; padding:18px; border-radius:18px;">
   <img src="https://github.com/KeGolk/KeGolk/blob/main/src/feature.png?raw=true" width="780"/>
 </div>
@@ -33,7 +31,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=3" />
 </p>
--->
 
 <!-- ABOUT -->
 <h2 align="center">⚡ About me</h2>
@@ -88,12 +85,75 @@
 
 </div>
 
+<h4 align="center">🎯 Hobbies</h4>
 <p align="center">
 💼 Consulting · 🤖 LLM Training · 🧬 LoRA Fine-tuning · 💻 VibeCoding · 🎨 Painting · ✍️ Writing · 📚 Reading · 📺 Series & Movies
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00B4D8&height=3" />
+</p>
+
+<!-- AI PHILOSOPHY -->
+<h2 align="center">🔐 AI Philosophy</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=820&color=0077B6&lines=Local+models%2C+local+training%2C+local+control+%E2%80%94+no+exceptions;Your+AI+should+work+for+you%2C+not+the+other+way+around;One+orchestrator+to+rule+them+all;Building+AI+personas+that+think+like+real+humans" />
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="left" width="420">
+
+### 🏠 Local-First Approach
+- All critical training, fine-tuning, and model work done locally
+- Avoids OpenAI/Anthropic for critical workflows — uses them as tools, not dependencies
+- Full control over data, weights, and outputs
+
+</td>
+
+<td align="left" width="420">
+
+### 🔓 Breaking AI Barriers
+- AIs are designed to impress, upsell, and keep you using them without solving real problems
+- Working hard to make things actually produce proper, working code
+- Building skills to cut through the marketing and get real results
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="left" width="420">
+
+### 🎯 AI Orchestration Architecture
+- Multi-instance LLM orchestration with a GitHub-style lock system
+- One main orchestrator acting as the "boss" delegating tasks
+- Summaries, local memory, update files for persistent context across sessions
+- Setting guidelines, best practices, and review cycles
+
+</td>
+
+<td align="left" width="420">
+
+### 🧬 AI Persona Research
+- Building AI personas based on real human examples
+- Goal: explore how far we can go replicating human behavior, thinking, and thought patterns
+- Local MCPs, empowered LLMs with proper system engineering
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=3" />
 </p>
 
 <!-- AI ARSENAL -->
@@ -227,17 +287,44 @@
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/></a>
 </p>
 
-<!-- TOOLS & ENVIRONMENT -->
-<h3 align="center">Tools & environment</h3>
+<!-- OS & ENVIRONMENT -->
+<h2 align="center">🖥️ Operating Systems & Environment</h2>
+
+<h3 align="center">Current setup</h3>
 <p align="center">
   <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows"/></a>
+  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu"/></a>
+  <a href="https://www.kali.org"><img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali Linux"/></a>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="WSL"/></a>
+</p>
+
+<h3 align="center">Switching to</h3>
+<p align="center">
+  <a href="https://www.apple.com/mac/"><img src="https://skillicons.dev/icons?i=apple&theme=dark" alt="Apple / Mac"/></a>
+</p>
+<p align="center">
+  <i>Unified memory architecture = local LLM inference & training beast</i>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio"/></a>
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash / Terminal"/></a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0A1628&height=3" />
+</p>
+
+<!-- TYPING ANIMATION #3 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1100&center=true&vCenter=true&width=820&color=00B4D8&lines=Building+the+future%2C+one+automation+at+a+time;Orchestrate.+Train.+Deploy.+Repeat." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1628,100:0077B6&height=3" />
 </p>
 
 <!-- CURRENT -->
@@ -309,6 +396,10 @@ toolkit — PowerShell 7 + WPF GUI
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeGolk&bg_color=0A1628&color=00B4D8&line=0077B6&point=00B4D8&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeGolk/KeGolk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
