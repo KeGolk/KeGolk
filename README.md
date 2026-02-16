@@ -108,10 +108,11 @@
 <p align="center">
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude_Opus_4.6-0077B6?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
   <a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex_5.3-00B4D8?style=for-the-badge&logo=openai&logoColor=white"/></a>
-  <a href="https://www.minimaxi.com"><img src="https://img.shields.io/badge/Minimax-0077B6?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://huggingface.co/Qwen"><img src="https://img.shields.io/badge/Qwen_Image_Edit-00B4D8?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://picovoice.ai"><img src="https://img.shields.io/badge/Picoclaw-0077B6?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://github.com/frdel/agent-zero"><img src="https://img.shields.io/badge/AgentZero-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-0077B6?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://www.minimaxi.com"><img src="https://img.shields.io/badge/Minimax-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://huggingface.co/Qwen"><img src="https://img.shields.io/badge/Qwen_Image_Edit-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://picovoice.ai"><img src="https://img.shields.io/badge/Picoclaw-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/frdel/agent-zero"><img src="https://img.shields.io/badge/AgentZero-0077B6?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <!-- TRAINING & FINE-TUNING -->
@@ -125,6 +126,8 @@
   <a href="https://github.com/artidoro/qlora"><img src="https://img.shields.io/badge/QLoRA-00B4D8?style=for-the-badge&logoColor=white"/></a>
   <a href="https://github.com/kohya-ss/sd-scripts"><img src="https://img.shields.io/badge/Kohya_SS-0077B6?style=for-the-badge&logoColor=white"/></a>
   <a href="https://github.com/comfyanonymous/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://stability.ai"><img src="https://img.shields.io/badge/Stable_Diffusion-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/lllyasviel/stable-diffusion-webui-forge"><img src="https://img.shields.io/badge/SD_Forge-00B4D8?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <!-- INFERENCE & LOCAL LLMs -->
@@ -135,6 +138,8 @@
   <a href="https://github.com/ggml-org/llama.cpp"><img src="https://img.shields.io/badge/llama.cpp-0077B6?style=for-the-badge&logoColor=white"/></a>
   <a href="https://lmstudio.ai"><img src="https://img.shields.io/badge/LM_Studio-00B4D8?style=for-the-badge&logoColor=white"/></a>
   <a href="https://github.com/ggml-org/llama.cpp"><img src="https://img.shields.io/badge/GGUF_Quantization-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/Open_WebUI-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/oobabooga/text-generation-webui"><img src="https://img.shields.io/badge/Text_Gen_WebUI-0077B6?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <!-- MLOps & TRACKING -->
