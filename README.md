@@ -382,10 +382,32 @@ toolkit — PowerShell 7 + WPF GUI
 <!-- STATS -->
 <h2 align="center">📊 GitHub activity</h2>
 
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KeGolk&theme=algolia&no-frame=true&column=7&margin-w=10" />
+</p>
+
+<!-- STREAK STATS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeGolk&theme=tokyonight&hide_border=true&background=0A1628&stroke=0077B6&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=0077B6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=48CAE4" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeGolk&bg_color=0A1628&color=00B4D8&line=0077B6&point=00B4D8&area=true&hide_border=true" />
 </p>
 
+<!-- 3D CONTRIBUTION CALENDAR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeGolk/KeGolk/main/profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+<!-- GITHUB METRICS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeGolk/KeGolk/main/github-metrics.svg" />
+</p>
+
+<!-- SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeGolk/KeGolk/output/github-contribution-grid-snake-dark.svg" />
 </p>
