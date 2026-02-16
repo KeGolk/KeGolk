@@ -270,9 +270,9 @@ quoting, orders & warehouse management
 </td>
 <td align="center" width="260">
 
-**🩺 DrDiagnostic**
-Medical diagnostics platform
-and healthcare automation
+**🔧 DrDiagnostic**
+Windows system diagnostics & remediation
+toolkit — PowerShell 7 + WPF GUI
 
 </td>
 </tr>
