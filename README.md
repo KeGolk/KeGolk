@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=00B4D8&lines=Building+enterprise+automations+by+day%2C+training+LoRAs+by+night;If+it+can+be+automated%2C+it+will+be+%E2%80%94+the+Ivan+way;Fortune+500+Automations+Lead+%7C+LLM+Trainer+%7C+VibeCoder;Clean+Code+%7C+AI%2FML+%7C+LoRA+Training+%7C+Automation+%7C+.NET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=00B4D8&lines=Building+enterprise+automations+by+day%2C+training+LoRAs+by+night;If+it+can+be+automated%2C+it+will+be+%E2%80%94+the+AIvan+way;Fortune+500+Automations+Lead+%7C+LLM+Trainer+%7C+VibeCoder;Clean+Code+%7C+AI%2FML+%7C+LoRA+Training+%7C+Automation+%7C+.NET" />
 </p>
 
 <p align="center">
