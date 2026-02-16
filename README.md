@@ -151,6 +151,23 @@
   <a href="https://www.runpod.io"><img src="https://img.shields.io/badge/RunPod-00B4D8?style=for-the-badge&logoColor=white"/></a>
 </p>
 
+<!-- TECHNIQUES & METHODS -->
+<h3 align="center">Techniques & methods</h3>
+<p align="center">
+  <a href="https://www.promptingguide.ai"><img src="https://img.shields.io/badge/Prompt_Engineering-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts"><img src="https://img.shields.io/badge/System_Prompt_Design-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://huggingface.co/blog/mlabonne/abliteration"><img src="https://img.shields.io/badge/Abliteration-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://huggingface.co/docs/trl/main/en/dpo_trainer"><img src="https://img.shields.io/badge/DPO_Training-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/arcee-ai/mergekit"><img src="https://img.shields.io/badge/Model_Merging-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://huggingface.co/models?search=uncensored"><img src="https://img.shields.io/badge/Model_Uncensoring-00B4D8?style=for-the-badge&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://huggingface.co/docs/datasets"><img src="https://img.shields.io/badge/Dataset_Curation-0077B6?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+  <a href="https://huggingface.co/docs/trl/main/en/sft_trainer"><img src="https://img.shields.io/badge/SFT_%2F_RLHF-00B4D8?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://contextengineering.com"><img src="https://img.shields.io/badge/Context_Engineering-0077B6?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/badge/Structured_Output-00B4D8?style=for-the-badge&logoColor=white"/></a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=3" />
 </p>
