@@ -61,7 +61,7 @@
 ### 🤖 AI Tinkerer
 - Training LLMs and fine-tuning LoRAs
 - Building AI-powered automation workflows
-- VibeCoding — the Ivan way
+- VibeCoding — the AIvan way
 
 </td>
 
