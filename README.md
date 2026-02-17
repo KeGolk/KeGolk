@@ -259,8 +259,6 @@
 <!-- FULL-STACK -->
 <h3 align="center">Full-stack experience</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
@@ -272,13 +270,13 @@
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase"/></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" alt="SQL Server"/></a>
 </p>
 
 <!-- SIDE PROJECTS & AUTOMATION -->
 <h3 align="center">Side projects & automation</h3>
 <p align="center">
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
-  <a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
   <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron"/></a>
   <a href="https://www.selenium.dev"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium"/></a>
 </p>
@@ -287,7 +285,6 @@
 <h3 align="center">Learning & exploring</h3>
 <p align="center">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow"/></a>
-  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/></a>
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust"/></a>
   <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go"/></a>
 </p>
@@ -317,6 +314,10 @@
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio"/></a>
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
   <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm"/></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions"/></a>
+</p>
+<p align="center">
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-0077B6?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -347,15 +348,15 @@ and workspace management tool
 <td align="center" width="260">
 
 **🌊 Deep Elevia**
-Full site build — design, development,
-and deployment from scratch
+Content platform with MDX blog system
+— design to deployment
 
 </td>
 <td align="center" width="260">
 
 **🐍 Piton**
-Custom tooling and automation project
-built the Ivan way
+Cross-platform security auditing tool
+with static analysis
 
 </td>
 </tr>
@@ -370,6 +371,13 @@ built the Ivan way
 <tr>
 <td align="center" width="260">
 
+**🏛️ NCR Voyix**
+Tech Expert & Automations Team Lead
+— Fortune 500, Innovation dept.
+
+</td>
+<td align="center" width="260">
+
 **✈️ [ELBJETS GmbH](https://elbjets.com)**
 Private jet charter platform
 based in Hamburg
@@ -382,12 +390,23 @@ Internal operations app: accounting,
 quoting, orders & warehouse management
 
 </td>
+</tr>
+<tr>
 <td align="center" width="260">
 
 **🔧 DrDiagnostic**
 Windows system diagnostics & remediation
 toolkit — PowerShell 7 + WPF GUI
 
+</td>
+<td align="center" width="260">
+
+**🎰 Slot Tracker**
+Analytics app — desktop, mobile,
+web & browser extension
+
+</td>
+<td align="center" width="260">
 </td>
 </tr>
 </table>
@@ -397,22 +416,20 @@ toolkit — PowerShell 7 + WPF GUI
 </p>
 
 <!-- FUN FACTS -->
-<h2 align="center">⚡ Fun facts</h2>
+<h2 align="center">💡 Fun facts</h2>
 
 <p align="center">
   <i>Because life isn't all code... mostly, though.</i>
 </p>
 
-<div align="center">
-
-- ☕ Haven't touched coffee in 2+ years — survived a coffee tasting, loved every sip, still didn't go back
-- 🎨 When I'm not coding, I'm painting — creativity isn't just for IDEs
-- 🚀 Started freelancing while still in school — 10+ years later, still can't stop building
-- 🤖 Trained my first LoRA out of spite because an AI couldn't do what I needed
-- 📺 If there's a good series, it's getting binged — no exceptions
-- 🧠 I read AI research papers for fun — yes, on weekends too
-
-</div>
+<p align="center">
+☕ Haven't touched coffee in 2+ years — survived a coffee tasting, loved every sip, still didn't go back<br/>
+🎨 When I'm not coding, I'm painting — creativity isn't just for IDEs<br/>
+🚀 Started freelancing while still in school — 10+ years later, still can't stop building<br/>
+🤖 Trained my first LoRA out of spite because an AI couldn't do what I needed<br/>
+📺 If there's a good series, it's getting binged — no exceptions<br/>
+🧠 I read AI research papers for fun — yes, on weekends too
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00B4D8&height=3" />
@@ -420,6 +437,11 @@ toolkit — PowerShell 7 + WPF GUI
 
 <!-- STATS -->
 <h2 align="center">📊 GitHub activity</h2>
+
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeGolk&show_icons=true&bg_color=0A1628&title_color=00B4D8&text_color=FFFFFF&icon_color=0077B6&hide_border=true&count_private=true" />
+</p>
 
 <!-- TOP LANGUAGES -->
 <p align="center">
@@ -458,7 +480,7 @@ toolkit — PowerShell 7 + WPF GUI
 </p>
 
 <p align="center">
-  <i>Automate. Train. Build. Repeat.</i>
+  <i>The best solutions come from understanding not just what needs to be built, but why it matters.</i>
 </p>
 
 <!-- FOOTER -->
