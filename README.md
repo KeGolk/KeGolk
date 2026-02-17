@@ -438,16 +438,6 @@ web & browser extension
 <!-- STATS -->
 <h2 align="center">📊 GitHub activity</h2>
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeGolk&show_icons=true&bg_color=0A1628&title_color=00B4D8&text_color=FFFFFF&icon_color=0077B6&hide_border=true&count_private=true" />
-</p>
-
-<!-- TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeGolk&layout=compact&bg_color=0A1628&title_color=00B4D8&text_color=FFFFFF&hide_border=true&langs_count=8" />
-</p>
-
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeGolk&bg_color=0A1628&color=00B4D8&line=0077B6&point=00B4D8&area=true&hide_border=true" />
