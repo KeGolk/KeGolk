@@ -407,6 +407,11 @@ web & browser extension
 
 </td>
 <td align="center" width="260">
+
+**🖥️ HardwareMonitorService**
+Windows hardware monitoring service
+— C# .NET 9 + LibreHardwareMonitor
+
 </td>
 </tr>
 </table>
