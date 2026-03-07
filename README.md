@@ -39,6 +39,50 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=3" />
 </p>
 
+<!-- QUICK OVERVIEW -->
+<h2 align="center">🧭 AIvan at a glance</h2>
+
+<p align="center">
+  <b>Personal brand + enterprise delivery.</b><br/>
+  Building secure, high-performance automations, AI systems, and polished digital experiences with the <b>AIvan way</b>.
+</p>
+
+<table align="center">
+<tr>
+<td align="left" width="280">
+
+### 🎯 Audience priority
+1. **Consulting clients** (primary)<br/>
+2. **Technical collaborators**<br/>
+3. **Recruiters**
+
+</td>
+<td align="left" width="280">
+
+### 📈 Proof by numbers
+- **10+ years** of experience
+- **19 repositories**
+- **14 contributed repositories**
+- **202 PRs opened**
+- **282 commits** (latest metrics snapshot)
+
+</td>
+<td align="left" width="280">
+
+### 🧱 Operating principles
+- Security-first architecture
+- Performance and optimization by default
+- Clean, maintainable systems
+- Distinctive visuals & motion design
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00B4D8&height=3" />
+</p>
+
 <!-- ABOUT -->
 <h2 align="center">⚡ About me</h2>
 
@@ -334,33 +378,28 @@
 </p>
 
 <!-- CURRENT -->
-<h2 align="center">🌍 Currently working on</h2>
+<h2 align="center">🌍 Currently building (private)</h2>
+
+<p align="center">
+  Momo has been retired, and active development is now fully focused on <b>AIvan</b>.
+</p>
 
 <table align="center">
 <tr>
-<td align="center" width="260">
+<td align="left" width="860">
 
-**🐒 Momo**
-Multi-instance Claude orchestration
-and workspace management tool
-
-</td>
-<td align="center" width="260">
-
-**🌊 Deep Elevia**
-Content platform with MDX blog system
-— design to deployment
-
-</td>
-<td align="center" width="260">
-
-**🐍 Piton**
-Cross-platform security auditing tool
-with static analysis
+### 🤖 AIvan
+Unified personal brand + MVP platform for private R&D, premium user experiences, and secure product incubation.<br/>
+**Focus:** high security, top-tier performance, unique animations/visuals, hidden content, and patent-aligned innovation workflows.
 
 </td>
 </tr>
 </table>
+
+<h3 align="center">🖼️ Project snapshots</h3>
+<p align="center">
+  Public demo assets and case-study snippets for AIvan are being prepared and will be added here.
+</p>
 
 <br/>
 
@@ -460,6 +499,21 @@ Windows hardware monitoring service
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00B4D8&height=3" />
+</p>
+
+<!-- SITE DIRECTION -->
+<h2 align="center">🌐 Site direction: ivanm.dev</h2>
+
+<p align="center">
+  <b>Goal:</b> Personal brand HQ + MVP launchpad.<br/>
+  Built for premium UX, high security, strong performance, and advanced visual storytelling.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Personal_Brand_HQ-0077B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVPs_in_Progress-00B4D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security_First-0A1628?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance_Optimized-0077B6?style=for-the-badge"/>
 </p>
 
 <!-- CONTACT -->
