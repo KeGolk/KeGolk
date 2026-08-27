@@ -1,6 +1,8 @@
 <div align="center">
-  <img alt="Ivan Mladenovic, trained in mechatronics, Tech Expert by day, engineer by night, Belgrade. Builds small, durable systems end to end across web, desktop and AI tooling. Work: aivanzerg browser RTS (live), economy world-economy data-viz (live), creator-ivana platform for an 830K creator (live), elbjets private-jet booking (live), aivan developer-intelligence CLI (alpha), darija distributor ERP (private), meetscribe local meeting transcription (private). Stack: TypeScript, PHP, Python, SQL; React, Next.js, Laravel, Node, Tailwind; PyQt6; MySQL, SQLite (Cloudflare D1); Cloudflare, Docker; Playwright, Vitest, pytest." src="assets/terminal.svg" width="760">
+  <img alt="Ivan Mladenovic, trained in mechatronics, Tech Expert by day, engineer by night, Belgrade. Builds custom business systems for small operators, end to end. Work: aivanzerg browser RTS (live), economy world-economy data-viz (live), creator-ivana platform for an 830K creator (live), elbjets private-jet booking (live), aivan developer-intelligence CLI (alpha), darija distributor ERP (private), meetscribe local meeting transcription (private). Stack: TypeScript, PHP, Python, SQL; React, Next.js, Laravel, Node, Tailwind; PyQt6; MySQL, SQLite (Cloudflare D1); Cloudflare, Docker; Playwright, Vitest, pytest." src="assets/terminal.svg" width="760">
 </div>
+
+I build custom business systems for small operators: booking, invoicing, client records, one working system. The offer, prices, and process are written out at [ivanm.dev/blueprint](https://www.ivanm.dev/blueprint/).
 
 ## [Tools](https://www.ivanm.dev/tools/)
 
