@@ -1,4 +1,4 @@
-![KEGOLK: Reel, a film-camera bot in a fedora, waits in the rain outside a lit edit suite below an orange neon sign](assets/banner.png)
+![KEGOLK: Reel, a film-camera bot in a fedora, waits in the rain outside a lit edit suite below an orange neon sign](assets/banner.gif)
 
 <div align="center">
   <img alt="Ivan Mladenovic, trained in mechatronics, Tech Expert by day, engineer by night, Belgrade. Builds custom business systems for small operators, end to end. Work: aivanzerg browser RTS (live), economy world-economy data-viz (live), creator-ivana platform for an 830K creator (live), elbjets private-jet booking (live), aivan developer-intelligence CLI (alpha), darija distributor ERP (private), meetscribe local meeting transcription (private). Stack: TypeScript, PHP, Python, SQL; React, Next.js, Laravel, Node, Tailwind; PyQt6; MySQL, SQLite (Cloudflare D1); Cloudflare, Docker; Playwright, Vitest, pytest." src="assets/terminal.svg" width="760">
